@@ -1,0 +1,4 @@
+﻿  VoteCount.cpp
+c:\users\ailis\documents\college\third year\discrete structure and algorithms\algorithms project\votecount\votecount\votecount.h(56): warning C4018: '<': signed/unsigned mismatch
+  VoteCount.vcxproj -> C:\Users\ailis\Documents\College\Third Year\Discrete Structure and Algorithms\Algorithms Project\VoteCount\Debug\VoteCount.exe
+  VoteCount.vcxproj -> C:\Users\ailis\Documents\College\Third Year\Discrete Structure and Algorithms\Algorithms Project\VoteCount\Debug\VoteCount.pdb (Partial PDB)
